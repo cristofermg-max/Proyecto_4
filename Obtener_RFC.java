@@ -119,6 +119,8 @@ public class Obtener_RFC {
         } while (opcion != 2);
 
         System.out.println("Saliendo...");
+	System.out.println("GIT");
+
     }
 }
 
